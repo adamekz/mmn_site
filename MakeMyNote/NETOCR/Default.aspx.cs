@@ -28,10 +28,10 @@ namespace NETOCR
     {
         public static String pic_file = "";
         public static Tesseract Do_ocr;
-        public FileClassesDataContext files_base;
+        
         protected void Page_Load(object sender, EventArgs e)
         {
-            files_base = new FileClassesDataContext();
+           
            /* Bitmap tmp = (Bitmap)Bitmap.FromFile("J:\\ocr_pages\\page0001.jpg");
             Emgu.CV.Image<Bgr, Byte> test = new Emgu.CV.Image<Bgr, byte>(tmp);     */       
         }
@@ -274,17 +274,7 @@ namespace NETOCR
             
 
 
-            File to_file = new File
-            {
-                Name = TitleBox.Text,
-                Path = file,
-                Hash = shash,
-                date = DateTime.Now,
-                Tags = TagsBox.Text
-            };
-            files_base.Files.InsertOnSubmit(to_file);
-
-            files_base.SubmitChanges();
+           
             SaveButton.Enabled = false;    
 
         }  

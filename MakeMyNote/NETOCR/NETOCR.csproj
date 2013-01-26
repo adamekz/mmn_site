@@ -123,11 +123,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="App_Data\FilesDatabase.mdf" />
-    <Content Include="App_Data\FilesDatabase_log.ldf">
-      <DependentUpon>FilesDatabase.mdf</DependentUpon>
-    </Content>
-    <Content Include="Data.aspx" />
     <Content Include="FreeTextBox.dll" />
     <Content Include="images\border.png" />
     <Content Include="images\controls.png" />
@@ -230,18 +225,6 @@
     <Compile Include="About.aspx.designer.cs">
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Data.aspx.cs">
-      <DependentUpon>Data.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Data.aspx.designer.cs">
-      <DependentUpon>Data.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="FileClasses.designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>FileClasses.dbml</DependentUpon>
-    </Compile>
     <Compile Include="OCR.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
@@ -272,11 +255,6 @@
     <Content Include="Site.Master" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="FileClasses.dbml">
-      <Generator>MSLinqToSQLGenerator</Generator>
-      <LastGenOutput>FileClasses.designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
     <None Include="tessdata\eng.cube.bigrams">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -306,9 +284,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="FileClasses.dbml.layout">
-      <DependentUpon>FileClasses.dbml</DependentUpon>
-    </None>
     <Content Include="App_LocalResources\Data.aspx.resx" />
     <EmbeddedResource Include="Properties\licenses.licx" />
   </ItemGroup>

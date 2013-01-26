@@ -35,7 +35,6 @@
                     <DynamicSelectedStyle BackColor="#507CD1" />
                     <Items>
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
-                        <asp:MenuItem NavigateUrl="~/Data.aspx" Text="Data" Value="Data"></asp:MenuItem>
                         <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
                     </Items>
                     <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
