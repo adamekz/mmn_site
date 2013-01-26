@@ -1,0 +1,147 @@
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\NETOCR.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\NETOCR.pdb
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\obj\Debug\NETOCR.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\obj\Debug\NETOCR.pdb
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Imaging.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Imaging.Formats.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Imaging.IPPrototyper.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.MachineLearning.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Math.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Neuro.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Robotics.Lego.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Robotics.Surveyor.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Robotics.TeRK.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Video.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Genetic.dll
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Imaging.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Imaging.Formats.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.MachineLearning.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Math.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Neuro.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Robotics.Lego.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Robotics.Surveyor.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Robotics.TeRK.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Video.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.xml
+c:\users\adas_przenosny\documents\visual studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Genetic.xml
+C:\Users\adas_przenosny\Documents\Visual Studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Controls.dll
+C:\Users\adas_przenosny\Documents\Visual Studio 2010\Projects\NETOCR\NETOCR\bin\AForge.DebuggerVisualizers (2010).dll
+C:\Users\adas_przenosny\Documents\Visual Studio 2010\Projects\NETOCR\NETOCR\bin\AForge.Controls.xml
+C:\Users\adas_przenosny\Documents\Visual Studio 2010\Projects\NETOCR\NETOCR\obj\Debug\NETOCR.csprojResolveAssemblyReference.cache
+D:\NETOCR\NETOCR\bin\NETOCR.dll
+D:\NETOCR\NETOCR\bin\NETOCR.pdb
+D:\NETOCR\NETOCR\bin\AForge.Controls.dll
+D:\NETOCR\NETOCR\bin\AForge.dll
+D:\NETOCR\NETOCR\bin\AForge.Imaging.dll
+D:\NETOCR\NETOCR\bin\AForge.Imaging.Formats.dll
+D:\NETOCR\NETOCR\bin\AForge.Imaging.IPPrototyper.dll
+D:\NETOCR\NETOCR\bin\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\NETOCR\NETOCR\bin\Emgu.CV.dll
+D:\NETOCR\NETOCR\bin\Emgu.CV.OCR.dll
+D:\NETOCR\NETOCR\bin\Emgu.CV.UI.dll
+D:\NETOCR\NETOCR\bin\Emgu.Util.dll
+D:\NETOCR\NETOCR\bin\AForge.Video.dll
+D:\NETOCR\NETOCR\bin\AForge.Math.dll
+D:\NETOCR\NETOCR\bin\ZedGraph.dll
+D:\NETOCR\NETOCR\bin\AForge.xml
+D:\NETOCR\NETOCR\bin\AForge.Controls.xml
+D:\NETOCR\NETOCR\bin\AForge.Imaging.xml
+D:\NETOCR\NETOCR\bin\AForge.Imaging.Formats.xml
+D:\NETOCR\NETOCR\bin\Emgu.CV.xml
+D:\NETOCR\NETOCR\bin\Emgu.CV.OCR.xml
+D:\NETOCR\NETOCR\bin\Emgu.CV.UI.xml
+D:\NETOCR\NETOCR\bin\Emgu.Util.xml
+D:\NETOCR\NETOCR\bin\AForge.Video.xml
+D:\NETOCR\NETOCR\bin\AForge.Math.xml
+D:\NETOCR\NETOCR\obj\Debug\NETOCR.csprojResolveAssemblyReference.cache
+D:\NETOCR\NETOCR\obj\Debug\NETOCR.dll
+D:\NETOCR\NETOCR\obj\Debug\NETOCR.pdb
+D:\NETOCR\NETOCR\bin\tessdata\eng.cube.bigrams
+D:\NETOCR\NETOCR\bin\tessdata\eng.cube.fold
+D:\NETOCR\NETOCR\bin\tessdata\eng.cube.lm
+D:\NETOCR\NETOCR\bin\tessdata\eng.cube.nn
+D:\NETOCR\NETOCR\bin\tessdata\eng.cube.params
+D:\NETOCR\NETOCR\bin\tessdata\eng.cube.size
+D:\NETOCR\NETOCR\bin\tessdata\eng.cube.word-freq
+D:\NETOCR\NETOCR\bin\tessdata\eng.tesseract_cube.nn
+D:\NETOCR\NETOCR\bin\tessdata\eng.traineddata
+D:\NETOCR\NETOCR\bin\cublas32_42_9.dll
+D:\NETOCR\NETOCR\bin\cudart32_42_9.dll
+D:\NETOCR\NETOCR\bin\cufft32_42_9.dll
+D:\NETOCR\NETOCR\bin\cvextern.dll
+D:\NETOCR\NETOCR\bin\npp32_42_9.dll
+D:\NETOCR\NETOCR\bin\opencv_calib3d242.dll
+D:\NETOCR\NETOCR\bin\opencv_contrib242.dll
+D:\NETOCR\NETOCR\bin\opencv_core242.dll
+D:\NETOCR\NETOCR\bin\opencv_features2d242.dll
+D:\NETOCR\NETOCR\bin\opencv_ffmpeg242.dll
+D:\NETOCR\NETOCR\bin\opencv_flann242.dll
+D:\NETOCR\NETOCR\bin\opencv_gpu242.dll
+D:\NETOCR\NETOCR\bin\opencv_highgui242.dll
+D:\NETOCR\NETOCR\bin\opencv_imgproc242.dll
+D:\NETOCR\NETOCR\bin\opencv_legacy242.dll
+D:\NETOCR\NETOCR\bin\opencv_ml242.dll
+D:\NETOCR\NETOCR\bin\opencv_nonfree242.dll
+D:\NETOCR\NETOCR\bin\opencv_objdetect242.dll
+D:\NETOCR\NETOCR\bin\opencv_photo242.dll
+D:\NETOCR\NETOCR\bin\opencv_stitching242.dll
+D:\NETOCR\NETOCR\bin\opencv_video242.dll
+D:\NETOCR\NETOCR\bin\opencv_videostab242.dll
+D:\NETOCR\NETOCR\bin\FreeTextBox.dll
+D:\NETOCR\NETOCR\obj\Debug\NETOCR.dll.licenses
+G:\GitHub\mmnote\MakeMyNote\NETOCR\obj\Debug\NETOCR.csprojResolveAssemblyReference.cache
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\cublas32_42_9.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\cudart32_42_9.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\cufft32_42_9.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\cvextern.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\npp32_42_9.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_calib3d242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_contrib242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_core242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_features2d242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_ffmpeg242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_flann242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_gpu242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_highgui242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_imgproc242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_legacy242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_ml242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_nonfree242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_objdetect242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_photo242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_stitching242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_video242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\opencv_videostab242.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.cube.bigrams
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.cube.fold
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.cube.lm
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.cube.nn
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.cube.params
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.cube.size
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.cube.word-freq
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.tesseract_cube.nn
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\tessdata\eng.traineddata
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\NETOCR.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\NETOCR.pdb
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Controls.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Imaging.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Imaging.Formats.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Imaging.IPPrototyper.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\FreeTextBox.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Video.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Math.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Controls.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Imaging.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Imaging.Formats.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\Emgu.CV.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\Emgu.CV.OCR.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\Emgu.CV.UI.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\Emgu.Util.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Video.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\bin\AForge.Math.xml
+G:\GitHub\mmnote\MakeMyNote\NETOCR\obj\Debug\NETOCR.dll.licenses
+G:\GitHub\mmnote\MakeMyNote\NETOCR\obj\Debug\NETOCR.dll
+G:\GitHub\mmnote\MakeMyNote\NETOCR\obj\Debug\NETOCR.pdb
