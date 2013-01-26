@@ -142,7 +142,6 @@
     <Content Include="images\loading.gif" />
     <Content Include="images\loading_background.png" />
     <Content Include="images\overlay.png" />
-    <Content Include="img\prev.bmp" />
     <Content Include="rleft.bmp" />
     <Content Include="rright.bmp" />
     <Content Include="Scripts\jquery.colorbox-min.js" />
@@ -272,6 +271,7 @@
   <ItemGroup>
     <Folder Include="App_Data\img\" />
     <Folder Include="DynamicData\" />
+    <Folder Include="img\" />
     <Folder Include="storage\" />
   </ItemGroup>
   <ItemGroup>
